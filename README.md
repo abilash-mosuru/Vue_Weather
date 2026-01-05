@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 VueJS – 201 Project Case Study: Minimalist Weather App
 📌 Overview
 A minimalist weather application built with Vue.js that uses Geolocation and OpenWeather API to display the current weather of the user’s location. The app allows storing location details for future use and provides a sleek, responsive design optimized for mobile and tablet devices.
@@ -52,3 +53,29 @@ Proper README with deployment instructions.
 Weather API: OpenWeatherMap
 Geolocation API: MDN Geolocation
 Firebase: Firebase Docs
+=======
+# vue-weather-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> master
